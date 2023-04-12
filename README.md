@@ -33,8 +33,8 @@ Depois, para não impactar o resultado final da nossa núvem de palavras, foram 
 que não trazem muita relevância para as nossas análises de texto, gerando inclusive ruídos que podem afetar os resultados finais.
 Exemplo: conectivos, como "o", "a", "que", "de", etc... 
 
-A partir disso foi gerado a núvem de palavras, sendo salva uma imagem para ser renderizada com as palavras mais frequêntes nas reviews.
+A partir disso foi gerado a núvem de palavras, sendo salva uma imagem para ser renderizada com as palavras mais frequentes nas reviews.
 
 ## Núvem de Palavras
 
-![Nuvem de Palavras](../../wbscp/analysis/../../GitHub/nlp-analysis-imdb/wbscp/analysis/nlp/N.png)
+![Nuvem de Palavras](analysis/nlp/N.png)
