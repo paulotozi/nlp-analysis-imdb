@@ -127,3 +127,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# SECRET_KEY variable
+
+SECRET_KEY = env('SECRET_KEY')
